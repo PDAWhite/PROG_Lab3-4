@@ -1,0 +1,1 @@
+public record Road(String name, double[] bumps){}
